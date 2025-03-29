@@ -22,4 +22,12 @@
 
 
 ## Files 
-* 
+*  [Coffee Sales Excel Workbook](Coffee%20Sales.xlsx)
+*  [Sales by Country Chart](Visualizations/image_3.png)
+*  [Top 5 Customers Chart](Visualizations/image_7.png)
+*  [Total Sales Over Time](Visualizations/image_1.png)
+*  [Coffee Sales Dashboard](Visualizations/image_12.png)
+
+
+
+
